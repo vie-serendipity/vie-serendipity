@@ -13,7 +13,7 @@ Welcome to my Github page!
 ## 🌱 I’m currently learning 
 - Cloud Native Related Work
 - LLM application development
-- MIT6.824
+- llm serving framework
 
 <!--
 **vie-serendipity/vie-serendipity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
